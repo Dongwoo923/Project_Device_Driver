@@ -84,12 +84,6 @@ https://github.com/user-attachments/assets/5dc46495-3a4e-48c7-8425-b6e0b3cd3425
 
 
 ---
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 844b2f19094b772711649af64aeff0d158e767d3
 
 ## 🚧 Trouble Shooting
 
