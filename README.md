@@ -76,7 +76,10 @@ FSM 구조를 통해 안정적인 UI 흐름을 유지합니다.
 본 프로젝트의 실제 동작 모습은 아래 영상을 통해 확인할 수 있습니다.
 (시계 동작, 온·습도 표시, 로터리 엔코더를 이용한 시간 설정 기능 포함)
 
-https://github.com/user-attachments/assets/0afb71da-efb4-4ce3-8623-6ea520ab01be
+
+https://github.com/user-attachments/assets/5dc46495-3a4e-48c7-8425-b6e0b3cd3425
+
+
 
 
 ---
