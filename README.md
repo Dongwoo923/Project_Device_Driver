@@ -4,6 +4,7 @@ DS1302 · DHT11 · OLED · Rotary Encoder 통합 디바이스 드라이버
 Linux 커널 디바이스 드라이버를 직접 구현하여  
 RTC, 온·습도 센서, OLED 디스플레이, 로터리 엔코더를 하나의 시스템으로 통합한 프로젝트입니다.  
 사용자 공간 애플리케이션 없이 커널 내부에서 입력 처리, 센서 제어, 화면 출력을 수행하도록 설계되었습니다.
+
 ![Project Overview](images/project.jpg)
 ---
 
