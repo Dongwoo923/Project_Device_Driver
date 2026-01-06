@@ -83,9 +83,6 @@ https://github.com/user-attachments/assets/5dc46495-3a4e-48c7-8425-b6e0b3cd3425
 
 
 ---
-## 🛠️ 사용 기술
-
-
 
 ## 🚧 Trouble Shooting
 
