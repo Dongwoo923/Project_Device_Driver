@@ -271,14 +271,14 @@ last_irq_ab = 0;
 /* S1 IRQ */
 interrupt_num_s1 = gpio_to_irq(S1_GPIO);
 ret = request_irq(interrupt_num_s1, rotary_ab_int_handler,
-                 IRQF_TRIGGER_FALLING,
+                   IRQF_TRIGGER_FALLING | IRQF_TRIGGER_RISING,
                   "my_rotary_irq_s1", NULL);
 if (ret) return ret;
 
 /* S2 IRQ */
 interrupt_num_s2 = gpio_to_irq(S2_GPIO);
 ret = request_irq(interrupt_num_s2, rotary_ab_int_handler,
-                 IRQF_TRIGGER_FALLING,
+                   IRQF_TRIGGER_FALLING | IRQF_TRIGGER_RISING,
                   "my_rotary_irq_s2", NULL);
 /* SW IRQ */
 interrupt_num_sw = gpio_to_irq(SW_GPIO);
